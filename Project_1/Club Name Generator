@@ -1,8 +1,10 @@
 print("Welcome to the Latest Club Name Generator.")
 
-club = input("what is the name of the city you were born in?. ")
-
-Name = input("what is your Pets name?. ")
+print("what is the name of the city you were born in?. ")
+club = input()
+    
+print("what is your Pets name?. ")
+Name = input()
 
 print(club + Name)
 
